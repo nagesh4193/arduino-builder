@@ -1,5 +1,7 @@
 language: go
-
+arch:
+  - amd64
+  - ppcle64
 os:
   - linux
   - osx
